@@ -1,0 +1,9 @@
+.error_status {
+    position: absolute;
+    font-size: 200px;
+    left: calc( 50% - 172.125px );
+    top: 0;
+    font-family: Roboto;
+    opacity: .1;
+    z-index: -1;
+}

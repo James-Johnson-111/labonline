@@ -1,0 +1,33 @@
+body {
+  font-family: Quicksand;
+}
+
+.general-btns {
+  background-color: #222222;
+  color: #fff;
+  border-radius: 0;
+  padding: 5px;
+  transition: .5s;
+  border: 1px solid #222222;
+}
+
+.general-btns:hover {
+  background: none;
+  border: 1px solid #222222;
+  color: #222222;
+}
+
+a {
+  color: #222222;
+}
+
+a {
+  color: #222222;
+}
+
+.hrLeftStyle {
+  background-color: #222222;
+  padding: 0;
+  margin: 5px;
+  margin-left: 0;
+}

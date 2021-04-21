@@ -1,0 +1,21 @@
+.LoginForm {
+    display: grid;
+    align-items: center;
+    text-align: center;
+    background-color: #F7F7F7;
+    font-family: Quicksand;
+}
+
+.LoginForm .LoginForm-inner .parent-div {
+    width: 30%;
+    height: auto;
+}
+
+.LoginForm .form-control {
+    color: #222222;
+}
+
+.LoginForm .form-control:focus {
+    box-shadow: none;
+    border: 1px solid #222222;
+}

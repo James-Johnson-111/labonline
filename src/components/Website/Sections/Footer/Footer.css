@@ -1,0 +1,20 @@
+.Footer {
+    width: 100%;
+    padding: 30px;
+    background-color: #222222;
+    color: #fff;
+}
+
+.Footer a {
+    color: #fff;
+    display: block;
+    font-size: 12px;
+    padding: 10px;
+    transition: .3s;
+}
+
+.Footer a:hover {
+    text-decoration: none;
+    transform: translateX(3px);
+    background-color: rgb(255, 255, 255, .1);
+}

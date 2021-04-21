@@ -1,0 +1,21 @@
+.SignupForm {
+    display: grid;
+    align-items: center;
+    text-align: center;
+    background-color: #F7F7F7;
+    font-family: Quicksand;
+}
+
+.SignupForm .SignupForm-inner .parent-div {
+    width: 30%;
+    height: auto;
+}
+
+.SignupForm .form-control {
+    color: #222222;
+}
+
+.SignupForm .form-control:focus {
+    box-shadow: none;
+    border: 1px solid #222222;
+}

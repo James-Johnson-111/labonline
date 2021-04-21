@@ -1,0 +1,21 @@
+.ConsumerStatus {
+    width: 50%;
+    height: 25vh;
+    background-color: #fff;
+    position: absolute;
+    top: calc(100% - 22vh);
+    left: calc(50% - 45%);
+    box-shadow: 0 0 30px lightgrey;
+    padding: 30px;
+}
+
+.ConsumerStatus .form-control {
+    border: 0;
+    border-radius: 0;
+    border-bottom: 1px solid #222222;
+    color: #222222;
+}
+
+.ConsumerStatus .form-control:focus {
+    box-shadow: none;
+}

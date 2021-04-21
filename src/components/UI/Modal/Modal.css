@@ -1,0 +1,11 @@
+.Modal {
+    position: fixed;
+    top: calc(50vh - 25vh);
+    left: calc(50% - 25%);
+    z-index: 999;
+    width: 50%;
+    height: 50vh;
+    background-color: #fff;
+    transition: 1s;
+    padding: 25px;
+}

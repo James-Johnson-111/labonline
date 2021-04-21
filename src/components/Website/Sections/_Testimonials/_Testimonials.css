@@ -1,0 +1,20 @@
+._Testimonials {
+    background-image: url('https://image.freepik.com/free-vector/white-abstract-background-design_23-2148825582.jpg');
+    background-size: 100% 100%;
+    width: 100%;
+    height: 60vh;
+    padding: 50px;
+}
+
+._Testimonials ._Testimonials-inner .center-div {
+    width: 60%;
+    text-align: justify;
+}
+
+._Testimonials ._Testimonials-inner .left-div, ._Testimonials ._Testimonials-inner .right-div:hover {
+    cursor: pointer;
+}
+
+._Testimonials-text {
+    display: inline;
+}

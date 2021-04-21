@@ -1,0 +1,11 @@
+.navbar {
+    background-color: #DE2C2C;
+    font-family: Raleway;
+    position: fixed;
+    width: 100%;
+    z-index: 100;
+}
+
+.navbar .navbar-nav .nav-item .nav-link, .navbar .navbar-brand {
+    color: #fff;
+}

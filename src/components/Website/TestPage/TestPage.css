@@ -1,0 +1,28 @@
+.TestPage {
+    width: 100%;
+    height: 100vh;
+    background-color: #F7F7F7;
+}
+
+.TestPage .TestPage-inner {
+    width: 30%;
+    position: relative;
+}
+
+.TestPage .back_aero {
+    position: absolute;
+    top: 1vh;
+    left: 2%;
+}
+
+.TestPage .TestPage-inner .test-btns {
+    padding: 5px 20px;
+    border-radius: 30px;
+    margin: 10px 0;
+    width: 75%;
+    transition: .5s;
+}
+
+.TestPage .TestPage-inner .test-btns:hover {
+    transform: translateY(-3px);
+}

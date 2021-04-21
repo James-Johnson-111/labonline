@@ -1,0 +1,25 @@
+.Dashboard {
+    padding-top: 60px;
+}
+
+.d-grid {
+    display: grid;
+    align-items: center;
+}
+
+.Dashboard .container-fluid .search-panel {
+    font-family: Quicksand;
+}
+
+.Dashboard .records {
+    font-size: 12px;
+}
+
+.Dashboard .records .col-11 {
+    border-bottom: none !important;
+}
+
+/* .Dashboard .records-container {
+    height: 100px;
+    overflow: auto;
+} */
